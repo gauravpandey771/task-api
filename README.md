@@ -33,7 +33,7 @@ A production-ready Task Management REST API implemented in Go with Fiber, follow
 ### Clone & Install Dependencies
 
 ```bash
-git clone https://github.com/yourname/task-api.git
+git clone https://github.com/gauravpandey771/task-api.git
 cd task-api
 
 go mod download
